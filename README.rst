@@ -27,12 +27,12 @@ Get health and power status of systems listed in list.txt:
 		SYSTEMS SUMMARY:
 
 		=========	========	========	========
-		TARGET      HOSTNAME	HEALTH		POWER
+		TARGET		HOSTNAME	HEALTH		POWER
 		=========	========	========	========
-		10.0.0.11	SRV001		OK 		    On
-		10.0.0.12	SRV002		OK			On
-		HOST3-ilo	HOST3		OK			Off
-		10.0.1.42	WEB001		OK			On
+		10.0.0.11	SRV001		OK 		On
+		10.0.0.12	SRV002		OK		On
+		HOST3-ilo	HOST3		OK		Off
+		10.0.1.42	WEB001		OK		On
 		=========	========	========	========
 
 		Scanned 4 system(s):
